@@ -1,0 +1,2 @@
+# --- modules/vpc/outputs.tf ---
+
